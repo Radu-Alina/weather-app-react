@@ -18,7 +18,7 @@ root.render(
     </div>
     <div>
       <small>
-        <a href="https://github.com/Radu-Alina"> Open source code </a>by <a> Alina Radu</a>
+        <a href="https://github.com/Radu-Alina"> Open source code by Alina Radu</a>
       </small>
     </div>
   </StrictMode>
